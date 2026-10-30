@@ -1,0 +1,38 @@
+# Maven
+backend/target/
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual environment / IDE
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node / Angular (Frontend)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Uploaded Files
+backend/uploads/
+uploads/
